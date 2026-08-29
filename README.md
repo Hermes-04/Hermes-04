@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Hermes-04/Hermes-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hermes 👋
 
-Here are some ideas to get you started:
+### CSE Student | Aspiring Business Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student interested in **Business Analytics, Data, and Technology**.
+
+I enjoy working with data, solving problems, and learning how technology can be used to make better business decisions.
+
+---
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Excel
+- Pandas
+- Data Cleaning & Analysis
+- Matplotlib
+
+---
+
+## 📊 Currently Learning
+
+- Advanced SQL
+- Statistics & Probability
+- Data Visualization
+- Business Analytics
+- Machine Learning
+
+---
+
+## 🚀 Projects
+
+> Projects coming soon...
+
+---
+
+## 🎯 Goal
+
+To build strong skills in **Business Analytics** and work on real-world data-driven problems.
+
+---
+
+## 📫 Connect With Me
+- Email: the.hermes.28@gmail.com
