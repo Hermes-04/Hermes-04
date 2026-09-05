@@ -1,5 +1,5 @@
 
-# Hi, I'm Hermes 👋
+# Hi, I'm Hayesh Raghavan 👋
 
 ### CSE Student | Aspiring Business Analyst
 
